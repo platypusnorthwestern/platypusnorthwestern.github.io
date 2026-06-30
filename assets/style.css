@@ -441,6 +441,11 @@ footer {
   letter-spacing: 0.05em;
 }
 
+/* SPS */
+.sc-embed {
+  margin: 4px 0 12px;
+}
+
 /* instagram feed */
 .ig-strip {
   margin-top: 8px;
