@@ -152,6 +152,11 @@ p { margin: 0 0 1em; }
   display: block;
 }
 
+.brand-text {
+  display: flex;
+  flex-direction: column;
+}
+
 .brand-text .title {
   font-family: "DIN Alt", "DIN", Arial, sans-serif;
   font-weight: 900;
